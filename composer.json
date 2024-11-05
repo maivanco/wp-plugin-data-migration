@@ -1,0 +1,13 @@
+{
+    "name": "itc-plugins/itc-data-migration",
+    "description": "A plugin to help export all data of a post type and import all data, with support for ACF.",
+    "type": "wordpress-plugin",
+    "require": {
+      "php": ">=7.4"
+    },
+    "autoload": {
+      "psr-4": {
+        "ITCDataMigration\\": "classes/"
+      }
+    }
+}

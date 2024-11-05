@@ -1,0 +1,8 @@
+.select-posts-wpr{
+    padding:10px 0;
+    display:none;
+}
+.select-posts-wpr .select2-container{
+    width:100% !important;
+    max-width:300px;
+}
